@@ -1,0 +1,1 @@
+/home/pi/Software/MyApplications/TestIndiDrv02/CMakeFiles/simpledevice_drv.dir

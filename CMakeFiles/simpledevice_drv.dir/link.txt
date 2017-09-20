@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/simpledevice_drv.dir/simpledevice.o  -o simpledevice_drv -rdynamic -lindidriver -lz -lnova 
